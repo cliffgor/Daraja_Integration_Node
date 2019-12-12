@@ -1,0 +1,17 @@
+{
+  "name": "daraja_intergration",
+  "version": "1.0.0",
+  "description": "A simple project to consume Safaricom Daraja Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "M-Pesa",
+    "Safaricom",
+    "M-Pesa",
+    "API"
+  ],
+  "author": "Cliff Gor",
+  "license": "ISC"
+}
